@@ -1,0 +1,3 @@
+= DeskOS: telegram RPM
+
+This is the _telegram_ RPM package for the *DeskOS* operating system.
